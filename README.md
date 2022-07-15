@@ -8,6 +8,7 @@
   <a href="https://github.com/MouraRaquel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouraRaquel&bg_color=1,000000,4716A3&title_color=fff&text_color=fff& include_all_commits=true&count_private=true&show_icons=true&icon_color=aa88ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraRaquel&layout=compact&langs_count=7&bg_color=1,4716A3,000000&title_color=fff&text_color=fff"/>
+    <img width="500em" height="270em" src="https://gitlab-readme-stats.vercel.app/api?username=raquel.aas&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&icon_color=aa88ff"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,6 +30,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouraraquel/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raquel.aasm/)
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mouraraquel/)
+[![GitLab](https://img.shields.io/badge/gitlab-292961.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raquel.aas)
 
 <!--
 **MouraRaquel/MouraRaquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
