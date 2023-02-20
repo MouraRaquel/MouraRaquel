@@ -4,12 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMouraRaquel&count_bg=%236D07C0&title_bg=%23000000&icon=&icon_color=%4716A3&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://github.com/MouraRaquel)
 <br><br>
 
-<div align="center">
-  <a href="https://github.com/MouraRaquel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouraRaquel&bg_color=1,000000,4716A3&title_color=fff&text_color=fff& include_all_commits=true&count_private=true&show_icons=true&icon_color=aa88ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraRaquel&layout=compact&langs_count=7&bg_color=1,4716A3,000000&title_color=fff&text_color=fff"/>
-    <img width="500em" height="270em" src="https://gitlab-readme-stats.vercel.app/api?username=MouraRaquel&bg_color=1,000000,4716A3&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&icon_color=aa88ff"/>
-</div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
